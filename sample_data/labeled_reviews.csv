@@ -1,0 +1,46 @@
+review,sentiment
+"positive sentiment excellent product with amazing quality and fast delivery",Positive
+"positive sentiment great service and very helpful support team",Positive
+"positive sentiment i loved the experience and the product works perfectly",Positive
+"positive sentiment wonderful app with smooth performance and clean design",Positive
+"positive sentiment happy with the purchase and satisfied with the value",Positive
+"positive sentiment best quality product and highly recommended",Positive
+"positive sentiment the staff was friendly and the service was excellent",Positive
+"positive sentiment fast response reliable service and great experience",Positive
+"positive sentiment very useful application with impressive features",Positive
+"positive sentiment perfect result and simple to use interface",Positive
+"positive sentiment awesome support and fantastic product quality",Positive
+"positive sentiment the delivery was quick and the packaging was good",Positive
+"positive sentiment pleasant experience and i am fully satisfied",Positive
+"positive sentiment this product exceeded my expectations",Positive
+"positive sentiment positive experience with reliable performance",Positive
+"negative sentiment bad product with poor quality and slow delivery",Negative
+"negative sentiment terrible service and rude support team",Negative
+"negative sentiment i hated the experience because the product failed",Negative
+"negative sentiment awful app with many crashes and errors",Negative
+"negative sentiment unhappy with the purchase and disappointed with value",Negative
+"negative sentiment worst quality product and not recommended",Negative
+"negative sentiment the staff was careless and the service was terrible",Negative
+"negative sentiment slow response unreliable service and bad experience",Negative
+"negative sentiment useless application with broken features",Negative
+"negative sentiment poor result and confusing interface",Negative
+"negative sentiment angry with support and horrible product quality",Negative
+"negative sentiment the delivery was delayed and the package was damaged",Negative
+"negative sentiment frustrating experience and i am not satisfied",Negative
+"negative sentiment this product did not meet my expectations",Negative
+"negative sentiment negative experience with unreliable performance",Negative
+"neutral sentiment average product with normal quality and standard delivery",Neutral
+"neutral sentiment ordinary service and basic support team",Neutral
+"neutral sentiment the experience was okay and the product works normally",Neutral
+"neutral sentiment simple app with regular performance and plain design",Neutral
+"neutral sentiment the purchase was acceptable and value was average",Neutral
+"neutral sentiment standard quality product with no special feature",Neutral
+"neutral sentiment the staff was available and the service was normal",Neutral
+"neutral sentiment regular response typical service and average experience",Neutral
+"neutral sentiment basic application with common features",Neutral
+"neutral sentiment normal result and simple interface",Neutral
+"neutral sentiment support was available and product quality was acceptable",Neutral
+"neutral sentiment the delivery was on time and the packaging was ordinary",Neutral
+"neutral sentiment neutral experience and i have no strong opinion",Neutral
+"neutral sentiment this product met the basic expectations",Neutral
+"neutral sentiment mixed experience with average performance",Neutral
