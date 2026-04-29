@@ -2,6 +2,8 @@
 
 A production-ready Streamlit project for sentiment, emotion, and emoji analysis. The application supports single text analysis, bulk CSV analysis, visualization, local history storage, and exportable results.
 
+## 🚀 Live Demo: [Click Here to View](https://sentiment-analysis-system-ocud.onrender.com)
+
 ## Features
 
 - Text sentiment analysis using VADER and TextBlob
